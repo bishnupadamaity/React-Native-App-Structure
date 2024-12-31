@@ -18,5 +18,11 @@ A clean and scalable React Native app structure built with modern tools and best
 ## Folder Structure 🗂️
 
 A well-structured and modular folder setup:
+src/
+│-- components/
+│-- navigation/
+│-- screens/
+│-- utils/
+│-- services/
+│-- assets/
 
-src/ │-- components/ │-- navigation/ │-- screens/ │-- utils/ │-- services/ │-- assets/
