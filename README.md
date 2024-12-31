@@ -1,4 +1,4 @@
-# React Native App Boilerplate
+# React Native App Boilerplate - (0.76.5)
 
 A clean and scalable React Native app structure built with modern tools and best practices. This boilerplate is designed to help you kickstart your next mobile project with ease and efficiency.
 
